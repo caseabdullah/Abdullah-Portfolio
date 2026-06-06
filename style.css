@@ -285,25 +285,25 @@ body{
     background-image: url(.\sc.png);
 }
 #pro-2{
-    background-image: url(.\pizz\ 1.png);
+    background-image: url(pizz\ 1.png);
 }
 #pro-3{
-    background-image: url(.\nike.png);
+    background-image: url(nike.png);
 }
 #pro-4{
-    background-image: url(.\ev.png);
+    background-image: url(ev.png);
 }
 #pro-5{
-    background-image: url(.\cod.png);
+    background-image: url(cod.png);
 }
 #pro-6{
-    background-image: url(.\sc.png);
+    background-image: url(sc.png);
 }
 #pro-7{
-    background-image: url(.\logitech.png);
+    background-image: url(logitech.png);
 }
 #pro-8{
-    background-image: url(.\sc2.png);
+    background-image: url(sc2.png);
 }
 .project:hover{
     flex: 2;
