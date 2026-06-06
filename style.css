@@ -282,28 +282,28 @@ body{
     transition: flex 0.6s cubic-bezier(0.25,1,0.5,1);
 }
 #pro-1{
-    background-image: url("https://github.com/caseabdullah/Abdullah-Portfolio/blob/main/sc.png");
+    background-image: url("sc.png");
 }
 #pro-2{
-    background-image: url("https://github.com/caseabdullah/Abdullah-Portfolio/blob/main/pizz%201.png");
+    background-image: url("pizz 1.png");
 }
 #pro-3{
     background-image: url("nike.png");
 }
 #pro-4{
-    background-image: url(..\ev.png);
+    background-image: url("ev.png");
 }
 #pro-5{
-    background-image: url(..\cod.png);
+    background-image: url("cod.png");
 }
 #pro-6{
-    background-image: url(..\sc.png);
+    background-image: url("sc.png");
 }
 #pro-7{
-    background-image: url(..\logitech.png);
+    background-image: url("logitech.png");
 }
 #pro-8{
-    background-image: url(..\sc2.png);
+    background-image: url("sc2.png");
 }
 .project:hover{
     flex: 2;
